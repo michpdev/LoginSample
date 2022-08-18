@@ -1,27 +1,27 @@
 const contentData = [
   {
-    title: "Configure other identity providers",
-    link: "https://auth0.com/docs/connections",
+    title: "Get Realtime Experiences with Languages",
+    link: "https://tmlanguages.com",
     description:
-      "Auth0 supports social providers as Facebook, Twitter, Instagram and 100+, Enterprise providers as Microsoft Office 365, Google Apps, Azure, and more. You can also use any OAuth2 Authorization Server."
+      "With features such as live chat and multiplayer games, students get to engage with their peers in realtime."
   },
   {
-    title: "Enable Multifactor Authentication",
-    link: "https://auth0.com/docs/multifactor-authentication",
+    title: "Spark Out of the Box Thinking",
+    link: "https://tmlanguages.com",
     description:
-      "Add an extra layer of security by enabling Multi-factor Authentication, requiring your users to provide more than one piece of identifying information. Push notifications, authenticator apps, SMS, and DUO Security are supported."
+      "From customizing avatars to coming up with new conversations, students will be using their creatvity skills throughout the platform."
   },
   {
-    title: "Anomaly Detection",
-    link: "https://auth0.com/docs/anomaly-detection",
+    title: "Improve Math Skills",
+    link: "https://tmlanguages.com",
     description:
-      "Auth0 can detect anomalies and stop malicious attempts to access your application. Anomaly detection can alert you and your users of suspicious activity, as well as block further login attempts."
+      "There is a positive correlation between learning another language and improved math abilities."
   },
   {
-    title: "Learn About Rules",
-    link: "https://auth0.com/docs/rules",
+    title: "Make Learning Fun",
+    link: "https://tmlanguages.com",
     description:
-      "Rules are JavaScript functions that execute when a user authenticates to your application. They run once the authentication process is complete, and you can use them to customize and extend Auth0's capabilities."
+      "By gamifying and adding a social aspect, students will have an engaging way to learn new languages, without even realizing it."
   }
 ];
 
